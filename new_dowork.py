@@ -3,6 +3,7 @@ import tkinter as tk
 import cv2
 from tkinter import font as tkfont
 from PIL import ImageTk, Image
+# 只是一次尝试
 
 path = 'C:\\Users\\15007\\Documents\\Kinect Studio\\BodyBasics-D2D\\save.bin'
 save_path = 'C:\\Users\\15007\\Desktop\\生物竞赛\\angle.txt'
